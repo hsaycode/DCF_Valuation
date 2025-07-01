@@ -1,7 +1,6 @@
-[Deployed Dashboard]()
+[Deployed Dashboard](https://yashap-dfc-valuation-dashboard-main.streamlit.app/)
 <br>
-[DCF Valuation Excel Sheet]()
-
+[DCF Valuation Excel Sheet](https://docs.google.com/spreadsheets/d/1bKr24nKQSAhfxsFx_VzIQLxtS-V87BLJot8DAjOAmiQ/edit?usp=sharing)
 
 
 # 📊 Titan Company Limited - DCF Valuation Dashboard
